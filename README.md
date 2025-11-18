@@ -1,16 +1,23 @@
 # Todo App
 
-A simple Flutter todo list application.
+A simple Flutter todo list application made for a university class (NTNU IDATT2506).
+
+## Developed and tested with / Requirements
+
+- [Flutter 3.35.7](https://flutter.dev)
+- [Dart 3.9.2](https://dart.dev)
+- One of the following:
+  - Physical Android device connected with USB debugging enabled.
+  - Android emulator running Pixel 9 on Android 16 (API 36).
 
 ## Features
 
 - Create multiple todo lists
 - Add items to each list
-- Persistant storage of items and lists
+- Persistent storage of items and lists
 - Rename items and lists (long press)
 - Delete items and lists (swipe left)
 - Mark items as complete (short press)
-- Clean and modern UI
 
 ## Run the app
 
@@ -20,7 +27,7 @@ A simple Flutter todo list application.
    flutter pub get
    ```
 
-2. Run the app (make sure you have a device or emulator connected):
+2. Run the app:
    ```bash
    flutter run --release
    ```
@@ -33,13 +40,7 @@ A simple Flutter todo list application.
    flutter pub get
    ```
 
-2. Run the app in debug mode (make sure you have a device or emulator connected):
+2. Run the app in debug mode:
    ```bash
    flutter run
    ```
-
-## Tech Stack
-
-- Flutter
-- go_router for navigation
-- flutter_bloc for state management
