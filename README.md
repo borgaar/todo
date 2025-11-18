@@ -4,8 +4,8 @@ A simple Flutter todo list application made for a university class (NTNU IDATT25
 
 ## Developed and tested with / Requirements
 
-- [Flutter 3.35.7](https://flutter.dev)
-- [Dart 3.9.2](https://dart.dev)
+- [Flutter 3.35.7](https://docs.flutter.dev/get-started/quick)
+- Dart 3.9.2
 - One of the following:
   - Physical Android device connected with USB debugging enabled.
   - Android emulator running Pixel 9 on Android 16 (API 36).
