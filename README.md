@@ -14,7 +14,7 @@ A simple Flutter todo list application made for a university class (NTNU IDATT25
 
 - Create multiple todo lists
 - Add items to each list
-- Persistent storage of items and lists
+- Persistent storage of items and lists (JSON file on device)
 - Rename items and lists (long press)
 - Delete items and lists (swipe left)
 - Mark items as complete (short press)
